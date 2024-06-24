@@ -2,30 +2,6 @@
 
 The code is written in Jupyter Notebook in Python 3 language. It aims to transform raw data from CSV files into meaningful information that can support the research of trends in popular books 
 
-## Structure
-```bash
-.
-├── Age_Analysis.ipynb
-├── Author_Analysis.ipynb
-├── BX-Books-Clean.csv
-├── BX-Books.csv
-├── BX-Ratings-Clean.csv
-├── BX-Ratings.csv
-├── BX-Users-Clean.csv
-├── BX-Users.csv
-├── Country_Analysis.ipynb
-├── Feature_Selection.ipynb
-├── KmeansClustering.ipynb
-├── Popular-Alternative-Country-Names.json
-├── Popularity_Analysis.ipynb
-├── Preprocessing.ipynb
-├── README.md
-├── Regression.ipynb
-├── World-Countries.csv
-└── new_data_clean_up.ipynb
-```
-
-
 ## Requirements
 
 Python libraries are used in the development progress. These libraries include:
